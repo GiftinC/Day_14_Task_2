@@ -1,0 +1,51 @@
+body {
+    margin: 0%;
+}
+
+.container {
+width: 100%;
+display: flex;
+text-align: center;
+justify-content: center;
+}
+
+form {
+   padding: 25px 50px 25px 50px;
+background-color: bisque;
+color: black;
+}
+
+form input {
+    width: 300px;
+   font-size: large;
+}
+
+form textarea {
+    width: 300px;
+   font-size: large;
+}
+
+form label {
+    width: 300px;
+   font-size: large;
+}
+
+form select {
+    font-size: large;
+}
+
+form option {
+    text-align: center;
+}
+
+.file {
+    width: 300px;
+    font-size: large;
+}
+
+table td {
+    border: 2px solid black;
+    width: 100px;
+    text-align: center;
+}
+
